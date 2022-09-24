@@ -17,4 +17,4 @@ Analyzed marketing data of a Bank and performed Logistic Regression using Advanc
 12 - campaign: number of contacts performed during this campaign and for this client (numeric, includes last contact)
 13 - pdays: number of days that passed by after the client was last contacted from a previous campaign (numeric; 999 means client was not previously contacted)
 14 - previous: number of contacts performed before this campaign and for this client (numeric)
-15 - poutcome: outcome of the previous marketing campaign (categorical: 'failure','nonexistent','success')![image](https://user-images.githubusercontent.com/30788289/192117737-f8e3a13a-37b3-4588-be0d-44f7e70c09b1.png)
+15 - poutcome: outcome of the previous marketing campaign (categorical: 'failure','nonexistent','success')
